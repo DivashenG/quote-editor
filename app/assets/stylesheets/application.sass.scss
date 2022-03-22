@@ -13,9 +13,13 @@
 @import "components/quote";
 @import "components/turbo_progress_bar";
 
+@import "components/flash";
+@import "config/animations";
+@import "components/empty_state";
+
 // Layouts
 @import "layouts/container";
 @import "layouts/header";
 @import "components/navbar";
-@import "components/flash";
-@import "config/animations";
+
+
