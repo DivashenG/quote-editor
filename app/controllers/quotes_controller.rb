@@ -40,7 +40,6 @@ class QuotesController < ApplicationController
     end
   end
 
-
   def destroy
     @quote.destroy
 
