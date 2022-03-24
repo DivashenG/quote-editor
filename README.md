@@ -2,7 +2,7 @@
 
 Tutorial link [Hotrails.dev](https://www.hotrails.dev/)
 
-Live Demo of the repo [hotrails-demo-app.herokuapp.com](https://hotrails-demo-app.herokuapp.com/)
+Live Demo of this repo [hotrails-demo-app.herokuapp.com](https://hotrails-demo-app.herokuapp.com/)
 
 ### Usage 
 
